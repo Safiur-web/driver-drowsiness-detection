@@ -15,15 +15,14 @@ This project detects if a driver is feeling sleepy using computer vision. It use
 - Haarcascade Classifiers
 - Pygame (for sound)
 
-## 📸 Screenshots
 
-(Add screenshots or a demo GIF here)
 
 ## 🚀 How to Run
 
 ```bash
 pip install -r requirements.txt
 python drowsiness_detect.py
+
+
 👨‍💻 Author
 Safiur Rahman
-```
