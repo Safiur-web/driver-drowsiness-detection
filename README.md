@@ -24,5 +24,6 @@ pip install -r requirements.txt
 python drowsiness_detect.py
 
 
-👨‍💻 Author
+
+**## 👨‍💻 Author**
 Safiur Rahman
